@@ -1,0 +1,1 @@
+Force elevates to admin (well, it asks user, but you don't have to `Run as Administrator`, just click yes at the prompt). Then disables video driver, waits and then re-enables. Needed for watching TV every time I hook it up.
